@@ -1,0 +1,14 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "E:\\\\PRJ3\\\\client\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\PRJ3\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
